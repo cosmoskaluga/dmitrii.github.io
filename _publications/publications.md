@@ -1,5 +1,5 @@
 ---
-title: "Personalized ionic models of cardiomyocytes on the basis of molecular data and genetic algorithms"
+title: "Publication"
 collection: publications
 permalink: /publications/
 ---
