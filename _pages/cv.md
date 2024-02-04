@@ -111,17 +111,17 @@ Courses
 
 References
 ======
-Prof. Ekaterina Khrameeva
-Assistant Professor
-    * Khrameeva Lab, Skoltech
-Nobel 3, Moscow, Moscow Region, 121205, Russia
-email: ekhrameeva@gmail.com
+Prof. Ekaterina Khrameeva <br>   
+Assistant Professor <br>
+Khrameeva Lab, Skoltech <br>
+Nobel 3, Moscow, Moscow Region, 121205, Russia <br>
+email: ekhrameeva@gmail.com <br>
 
-Prof. Deborah Toiber
-Associate Professor
-    * Toiber Lab, Ben-Gurion University of the Negev
-653 Beer-Sheva, Israel
-email: toiber@bgu.ac.il
+Prof. Deborah Toiber <br>
+Associate Professor <br>
+Toiber Lab, Ben-Gurion University of the Negev <br>
+653 Beer-Sheva, Israel <br>
+email: toiber@bgu.ac.il <br>
 
 
 
