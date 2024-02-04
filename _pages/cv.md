@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2013-2017
 * M.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2017-2019 
-* Ph.D in Life Sciences, Double-degree program between Skolkovo Institute of Science and Technology (Russia) and Ben-Gurion University of the Negev (Israel), 2019-2023 
+* Ph.D in Life Sciences, Dual-degree program between Skolkovo Institute of Science and Technology (Russia) and Ben-Gurion University of the Negev (Israel), 2019-2023 
 
 Research experience
 ======
@@ -111,13 +111,13 @@ Courses
 
 References
 ======
-Prof. Ekaterina Khrameeva <br>   
+**Prof. Ekaterina Khrameeva** <br>
 Assistant Professor <br>
 Khrameeva Lab, Skoltech <br>
 Nobel 3, Moscow, Moscow Region, 121205, Russia <br>
 email: ekhrameeva@gmail.com <br>
 
-Prof. Deborah Toiber <br>
+**Prof. Deborah Toiber** <br>
 Associate Professor <br>
 Toiber Lab, Ben-Gurion University of the Negev <br>
 653 Beer-Sheva, Israel <br>

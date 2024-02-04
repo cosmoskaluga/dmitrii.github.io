@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dmitrii Smirnov"
+  name             : "Dmitrii Smirnov, Ph.D"
   avatar           : "Avatar2.png"
   bio              : "Khrameeva lab, Skoltech"
   location         : "Moscow, Russia"
@@ -215,16 +215,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
-      type: publications
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
